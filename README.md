@@ -1,2 +1,2 @@
 #!/bin/bash
-# This repo is for my CodeWars solves
+# This repo is for my CodeWars challenges I solved
